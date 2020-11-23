@@ -1,0 +1,13 @@
+C:\Users\hP\source\repos\Aggregation\Aggregation\bin\Debug\netcoreapp3.1\Aggregation.exe
+C:\Users\hP\source\repos\Aggregation\Aggregation\bin\Debug\netcoreapp3.1\Aggregation.deps.json
+C:\Users\hP\source\repos\Aggregation\Aggregation\bin\Debug\netcoreapp3.1\Aggregation.runtimeconfig.json
+C:\Users\hP\source\repos\Aggregation\Aggregation\bin\Debug\netcoreapp3.1\Aggregation.runtimeconfig.dev.json
+C:\Users\hP\source\repos\Aggregation\Aggregation\bin\Debug\netcoreapp3.1\Aggregation.dll
+C:\Users\hP\source\repos\Aggregation\Aggregation\bin\Debug\netcoreapp3.1\Aggregation.pdb
+C:\Users\hP\source\repos\Aggregation\Aggregation\obj\Debug\netcoreapp3.1\Aggregation.csprojAssemblyReference.cache
+C:\Users\hP\source\repos\Aggregation\Aggregation\obj\Debug\netcoreapp3.1\Aggregation.AssemblyInfoInputs.cache
+C:\Users\hP\source\repos\Aggregation\Aggregation\obj\Debug\netcoreapp3.1\Aggregation.AssemblyInfo.cs
+C:\Users\hP\source\repos\Aggregation\Aggregation\obj\Debug\netcoreapp3.1\Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\hP\source\repos\Aggregation\Aggregation\obj\Debug\netcoreapp3.1\Aggregation.dll
+C:\Users\hP\source\repos\Aggregation\Aggregation\obj\Debug\netcoreapp3.1\Aggregation.pdb
+C:\Users\hP\source\repos\Aggregation\Aggregation\obj\Debug\netcoreapp3.1\Aggregation.genruntimeconfig.cache
